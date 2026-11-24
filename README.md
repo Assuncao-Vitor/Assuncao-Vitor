@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Assuncao-Vitor&color=2E9E6A&style=flat-square&label=visitas" alt="visitas ao perfil" />
+  <a href="https://www.linkedin.com/in/assuncao-vitor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:viktor.vasconcello@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
@@ -51,13 +52,6 @@ status    | aprendendo sempre
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assuncao-Vitor&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Linguagens mais usadas" />
-</p>
-
-## `SELECT contato FROM redes;`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/assuncao-vitor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:viktor.vasconcello@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 <p align="center">Feito com café em Itacoatiara, AM</p>
